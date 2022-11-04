@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pengyu Chen</h1>
-<h3 align="center">A student major GIS in WUT; backend; Data Analysis; Unity</h3>
+<h3 align="center">A student major GIS in WUT; Backend; Data Analysis; Game coding </h3>
 
 - 🔭 I’m currently working as [research intern clemson university](https://fanchaolab.com/)
 
