@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pengyu Chen</h1>
 <h3 align="center">A student major GIS in WUT; Backend; Data Analysis; Game coding </h3>
 
-- 🔭 I’m currently working as [research intern clemson university](https://fanchaolab.com/)
+- 🔭 I’m currently working as [research intern;clemson university](https://fanchaolab.com/)
 
 - 🌱 I’m currently learning **Django;Springboot;Unity**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andyphilharmonic@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pengyu-chen-a07973181/](https://www.linkedin.com/in/pengyu-chen-a07973181/)
+- 📄 my linkedin [https://www.linkedin.com/in/pengyu-chen-a07973181/](https://www.linkedin.com/in/pengyu-chen-a07973181/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
